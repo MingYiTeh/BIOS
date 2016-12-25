@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "vacancy": 0,
+    "min-bid-amount": 11.3,
+    "students": [
+	{
+            "userid": "delta",
+            "amount": 26.0,
+            "balance": 74.0, 
+            "status": "success"
+        },
+	{
+            "userid": "charlie",
+            "amount": 16.4,
+            "balance": 53.2, 
+            "status": "success"
+        },
+	{
+            "userid": "beta",
+            "amount": 11.3,
+            "balance": 38.1, 
+            "status": "success"
+        }
+    ]
+}

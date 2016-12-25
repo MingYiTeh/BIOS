@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "vacancy": 3,
+    "min-bid-amount": 19.3,
+    "students": [
+        {
+            "userid": "alpha",
+            "amount": 19.3,
+            "balance": 0.0, 
+            "status": "pending"
+        }
+    ]
+}
